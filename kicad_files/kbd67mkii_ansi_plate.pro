@@ -1,6 +1,6 @@
-update=Tue 23 Jun 2020 09:21:30 PM -03
+update=Thu 25 Jun 2020 08:47:02 PM -03
 version=1
-last_client=kicad
+last_client=pcbnew
 [general]
 version=1
 RootSch=
@@ -16,7 +16,7 @@ LibDir=
 version=1
 PageLayoutDescrFile=
 LastNetListRead=
-LastSTEPExportPath=KBD67MKII_Plate.step
+LastSTEPExportPath=
 LastIDFExportPath=
 LastVRMLExportPath=
 LastSpecctraDSNExportPath=
